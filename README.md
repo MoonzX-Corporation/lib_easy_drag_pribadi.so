@@ -1,0 +1,2 @@
+# lib_easy_drag_pribadi.so
+lib_easy_drag_pribadi
